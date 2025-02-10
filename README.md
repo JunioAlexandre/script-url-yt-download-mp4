@@ -1,4 +1,4 @@
-# Script - Download de Vídeos do YouTube em MP4
+# Script - Download Vídeos do YouTube em MP4
 
 Este é um script em Python que permite baixar vídeos na melhor qualidade do YouTube em formato MP4 diretamente no seu computador.
 
