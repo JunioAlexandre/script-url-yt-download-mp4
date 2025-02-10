@@ -24,5 +24,5 @@ Faça o download do script ou clone o repositório diretamente para a pasta do s
 git clone https://github.com/seu-usuario/repo-yt-download-mp4.git
 ```
 
-Ou baixe o arquivo diretamente no [GitHub](https://github.com/junio-alexandre/repo-yt-download-mp4).
+Ou baixe o arquivo diretamente no [GitHub](https://github.com/junioalexandre/repo-yt-download-mp4).
 
