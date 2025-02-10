@@ -14,4 +14,15 @@ Para rodar este script, você precisará ter o Python 3 e a biblioteca yt-dlp in
    ```bash
    python -m install yt-dlp
 
-3. 
+## Utilizando o Script
+
+### 1. Baixando o Script
+
+Faça o download do script ou clone o repositório diretamente para a pasta do seu computador.
+
+```bash
+git clone https://github.com/seu-usuario/repo-yt-download-mp4.git
+```
+
+Ou baixe o arquivo diretamente no [GitHub](https://github.com/junio-alexandre/repo-yt-download-mp4).
+
